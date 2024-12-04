@@ -1,0 +1,12 @@
+Frame 1: Normal
+Frame 2: Disappear
+Frame 3: Appear
+Frame 4: Little to the Left
+Frame 5: More to the Left
+Frame 6: Disappear
+Frame 7: Appear Upside Down
+Frame 8: Upside a little to bottom left 
+Frame 9: Scrambled upside down text
+Frame ??: Scrambled Text
+Frame +1: Nier Automata in other font 
+Frame +2: Nier Automata in other font (Very Scrambled)

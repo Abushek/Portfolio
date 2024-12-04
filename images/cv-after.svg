@@ -1,0 +1,17 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 356 357" style="enable-background:new 0 0 356 357;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#bab59e;stroke-width:24;stroke-miterlimit:10;}
+	.st1{fill:#bab59e;}
+	.st2{font-family:'RodinPro-DB-90ms-RKSJ-H';}
+	.st3{font-size:163.1198px;}
+</style>
+<path class="st0" d="M11.1,357V12h227.8"/>
+<path class="st0" d="M343.8,357V115.7"/>
+<g>
+	<text transform="matrix(1.1007 0 0 1 23.9634 198.4252)" class="st1 st2 st3">CV</text>
+</g>
+<rect x="53.7" y="234.3" class="st0" width="214.9" height="3"/>
+<rect x="53.7" y="293.2" class="st0" width="214.9" height="3"/>
+<line class="st0" x1="230.7" y1="8" x2="347.1" y2="124"/>
+<line class="st0" x1="13.5" y1="344.9" x2="343.8" y2="344.9"/>
+</svg>
