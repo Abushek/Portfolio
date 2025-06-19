@@ -157,7 +157,7 @@ function textanim (document)
       j[k]=0;   
     }
   }
-  },4);
+  },0.5);
 
   // Stagger animation for paragraphs
   allparas=document.getElementsByClassName("para");
